@@ -124,7 +124,7 @@ C'est une excellente solution et puisque mes notes sont exclusivement en « Mark
 
 Au moment d'écrire ces lignes, le pointage de l'examen fonctionnait comme suit:
 - Il faut accumuler 70 points pour réussir l'examen. Maximum 100 points.
-- L'ensemble de 3 machines dans un domaine AD vaut 40 points ou 0 points. Il faut compromettre l'ensemble des machines pour avoir les 40 points, sinon c'est 0.
+- L'ensemble de 3 machines dans un domaine AD vaut 40 points ou 0 point. Il faut compromettre l'ensemble des machines pour avoir les 40 points, sinon c'est 0 (donc essentiellement atteindre Domain Admin).
 - Les 3 machines « standalone » donnent 10 points pour obtenir un shell lowpriv, et 10 autres points pour obtenir un shell root/admin, donc 20 points potentiels chacune.
 
 Dépendamment des points bonis, cela crée donc quelques scénarios possibles pour obtenir la note de passage:
