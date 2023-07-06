@@ -70,7 +70,7 @@ OffSec a implanté un nouveau système de laboratoires en 2023 et c'est beaucoup
 	- Respecter les restrictions d'outils et de documentation: ça aidera beaucoup si on a déjà les bons réflexes, au lieu d'essayer de casser des mauvais réflexes à l'examen;
 	- Rapport: il est recommandé de simuler la production d'un rapport au moins 1 fois avant l'examen. En situation réelle d'examen, vous serez stressé et pressé dans le temps, ce n'est pas le temps d'essayer de trouver une nouvelle façon de créer un rapport. Cela devrait être déjà acquis.
 	- Je recommande de faire un rapport complet de bout-en-bout pour au moins 1 des 3 pratiques d'examen pour peaufiner votre processus de production de rapport et corriger tout problème. Ce n'est pas agréable de réaliser à la dernière minute qu'on a un problème de génération de rapport (fait vécu).
-	- Indices: il ne faut pas se sentir trop mal d'avoir besoin d'un indice de temps à autre. Cela reste une pratique. L'important est de noter et assimiler le pourquoi a on été bloqué, afin d'éviter un blocage similaire à l'examen. Cela peut être une belle opportunité d'ajouter des vérifications, techniques ou outils à nos notes et méthodologie. 
+	- Indices: il ne faut pas se sentir trop mal d'avoir besoin d'un indice de temps à autre. Cela reste une pratique. L'important est de noter et assimiler le pourquoi on a été bloqué, afin d'éviter un blocage similaire à l'examen. Cela peut être une belle opportunité d'ajouter des vérifications, techniques ou outils à nos notes et méthodologie. 
 
 ## Rapport 
 
