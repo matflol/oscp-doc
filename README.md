@@ -116,7 +116,7 @@ C'est une excellente solution et puisque mes notes sont exclusivement en « Mark
 - Quand on part en pause, on fait juste avertir le surveillant et on peut se lever et partir. **Le temps continue de tourner.** On peut fermer la cam pendant ce temps. On peut se déconnecter, mais j'ai trouvé plus efficace de laisser toutes mes choses ouvertes pour resauter directement dans l'examen à mon retour. 
 - Il vous sera demandé de prendre votre caméra **avec le même appareil** et filmer les environs et de démontrer qu'il n'y a aucun autre dispositif électronique dans la pièce: autres ordinateurs, télés, téléphones, etc. Si cela demande d'adapter votre pièce, pensez-y avant le jour J. 
 - Le logiciel de surveillance supporte plusieurs écrans, mais ne semble pas aimer les écrans en mode portrait. J'ai du basculer mon second écran en mode paysage pour être capable de présenter mes deux écrans au surveillant.
-- On dispose de 23:45h pour faire l'examen. 
+- On dispose de 23h45 pour faire l'examen. 
 - On reçoit un « VPN Pack » similaire à ce qui est utilisé pour les laboratoires. **Les « flags » doivent absolument être soumis dans un portail web accessible depuis le VPN.**
 - Une autre plage de temps séparée nous est allouée pour la production du rapport.
 
