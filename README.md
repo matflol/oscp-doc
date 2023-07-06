@@ -131,6 +131,7 @@ Dépendamment des points bonis, cela crée donc quelques scénarios possibles po
 - 10 points bonis + AD set 40 points + 1 machine « standalone » complétée = 70 points
 - 10 points bonis + 3 machines « standalones » complétées = 70 points
 - AD set 40 points + 2 machines « standalones » complétées = 80 points
+- Sans les points bonis, vous êtes donc obligés de réussir le set d'AD, puisque 60 points des 3 « standalones » ne seraient pas suffisants. 
 
 Ne pas oublier que pour prouver la réussite des machines, il faut:
 - Soumettre toutes les preuves « local.txt » et « proof.txt » dans le portail web;
