@@ -102,7 +102,7 @@ Voici un résumé de cette solution:
 - On a plusieurs choix de couleurs et de formatage pour les « code blocks ». 
 
 C'est une excellente solution et puisque mes notes sont exclusivement en « Markdown », c'était une vraie joie de passer mon rapport directement d'Obsidian vers un PDF présentable sans jouer dans Microsoft Office. Par contre, garder en tête ces bémols:
-- Au fil des mois, si OffSec sort un nouveau template de rapport, ça ne veut pas dire que le bon samaritain va automatiquement le convertir et l'intégrer à son projet. Il vaut mieux vérifier au moment de faire son examen.
+- Au fil des mois, si OffSec sort un nouveau template de rapport, ça ne veut pas dire que le bon samaritain va automatiquement le convertir et l'intégrer à son projet. Il vaut mieux vérifier au moment de faire son examen. Au besoin, ce n'est pas très compliqué d'aller chercher le dernier rapport OffSec et le mettre en « Markdown » pour servir de gabarit.
 - Si OffSec modifie ses exigences et critères pour le rapport, ça ne veut pas dire que le bon samaritain va modifier son projet automatiquement. Il vaut mieux vérifier aussi avant de l'utiliser. 
 - Il est recommandé de tester la solution de bout-en-bout au moins une fois. J'avais personnellement testé l'outil rapidement et la génération fonctionnait très bien, mais une fois en situation d'examen, j'ai transféré mes notes Obsidian de mon hôte vers ma VM, généré le rapport, et mes copies d'écran étaient brisé. Je n'avais pas assez testé le processus. Il semble que le problème n'était pas l'outil en soit mais ma façon d'insérer les copies d'écran dans Obsidian. Ça causait un problème avec « pandoc ». J'aurais du mieux tester le processus de bout-en-bout au préalable à tête reposée.
 
