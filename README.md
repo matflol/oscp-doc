@@ -80,6 +80,7 @@ Lorsqu'OffSec a annoncé qu'un ensemble « Active Directory » faisait maintenan
 - L'essentiel est surtout d'être capable de faire la différences entre des comptes locaux et des comptes AD, de comprendre les différentes sortes de credentials et où ils sont stockés (SAM VS NTDS), de comprendre les principaux groupes privilégiés dans AD et leurs capacités (Domain admin surtout), de comprendre qu'un privilège dans AD peut vouloir dire des privilèges obtenus sur toutes les machines, de comprendre qu'on peut s'authentifier à certains services avec un hash, etc.
 - Encore une fois, la meilleure façon d'avoir un aperçu d'exploitation AD OSCP est de faire les 3 pratiques d'examen OSCP A-B-C.
 - Le « protocol spraying » et « credential spraying » reviennent à répétition.
+- Je soupçonne qu'OffSec va bonifier le volet AD au fil du temps, mais pour le moment c'est très basic.
   
 ## Rapport 
 
