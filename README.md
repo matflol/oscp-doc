@@ -46,7 +46,7 @@ OffSec a implanté un nouveau système de laboratoires en 2023 et c'est beaucoup
 	- Relia: Moyen
 	- Skylark: Difficile
 
-- Les « challenges » sont amusants et bénéfiques pour l'apprentissage et la pratique, nous font voir toutes sortes de techniques et apprendre toutes sortes de choses courantes et parfois obscures aussi, mais il faut comprendre qu'ils ne sont PAS directement une pratique pour l'examen. Le format des « challenges » a très peu de similitudes avec l'examen OSCP. Plusieurs choses rencontrées dans les « challenges » ne seront jamais vus dans l'examen OSCP. 
+- Les « challenges » sont amusants et bénéfiques pour l'apprentissage et la pratique, nous font voir toutes sortes de techniques et apprendre toutes sortes de choses courantes et parfois obscures aussi, mais il faut comprendre qu'ils ne sont PAS directement une pratique pour l'examen. Le format des « challenges » a très peu de similitudes avec l'examen OSCP. Plusieurs choses rencontrées dans les « challenges » ne seront jamais vues dans l'examen OSCP. 
 
 - Les « challenges » peuvent être considérés comme du contenu supplémentaire pour aller un peu plus loin. Cela s'avère particulièrement vrai pour « Skylark » qui contient des choses parfois très obscures, qui ne sont parfois pas dans le contenu du cours.
 
