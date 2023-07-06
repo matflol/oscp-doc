@@ -140,5 +140,5 @@ Ne pas oublier que pour prouver la réussite des machines, il faut:
 # Post-examen (rapport)
 
 - Dès que le temps est écoulé pour l'examen, une nouvelle période de 24h commence qui représente le temps restant pour soumettre notre rapport. 
-- OffSec a un portail web où déposer le rapport. Il y a des requis spécifiques à suivre qui sont détaillées dans le guide d'examen, particulièrement pour le nom du fichier du rapport et son format. 
+- OffSec a un portail web où déposer le rapport. Il y a des requis spécifiques à suivre qui sont détaillés dans le guide d'examen, particulièrement pour le nom du fichier du rapport et son format. 
 - OffSec affiche un délai maximal de 10 jours pour revenir avec les résultats par courriel. On peut aussi potentiellement voir son résultat un peu plus rapidement dans le portail web OffSec (onglet EXAM).
