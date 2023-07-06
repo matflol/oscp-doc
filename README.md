@@ -84,7 +84,7 @@ Il y a des attentes précises seulement pour:
 
 Certains font leur propre rapport personnel et ça passe, mais une recette prudente est de se limiter au gabarit officiel fournit par OffSec. Comme cela, on est sur de remplir les attentes. Ils fournissent un gabarit en format Office sur la page du guide d'examen. Il suffit de remplir les trous avec le contenu de notre examen.
 
-https://www.offensive-security.com/pwk-online/OSCP-Exam-Report.docx
+https://www.offensive-security.com/pwk-online/OSCP-Exam-Report.docx<br>
 https://www.offensive-security.com/pwk-online/OSCP-Exam-Report.odt
 
 La majorité des étudiants semblent suivre cette solution et s'en sortent bien. Personnellement, j'ai eu énormément de difficulté à ramener mes notes d'Obsidian vers MS Word, ça cassait constamment la mise en page du rapport, et je perdais énormément de temps à essayer de réparer la mise en page au lieu d'avancer mon rapport. J'ai donc regardé pour une autre façon de faire. 
