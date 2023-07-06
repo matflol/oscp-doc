@@ -72,6 +72,15 @@ OffSec a implanté un nouveau système de laboratoires en 2023 et c'est beaucoup
 	- Je recommande de faire un rapport complet de bout-en-bout pour au moins 1 des 3 pratiques d'examen pour peaufiner votre processus de production de rapport et corriger tout problème. Ce n'est pas agréable de réaliser à la dernière minute qu'on a un problème de génération de rapport (fait vécu).
 	- Indices: il ne faut pas se sentir trop mal d'avoir besoin d'un indice de temps à autre. Cela reste une pratique. L'important est de noter et assimiler le pourquoi on a été bloqué, afin d'éviter un blocage similaire à l'examen. Cela peut être une belle opportunité d'ajouter des vérifications, techniques ou outils à nos notes et méthodologie. 
 
+## Active Directory
+
+Lorsqu'OffSec a annoncé qu'un ensemble « Active Directory » faisait maintenant partie de l'examen, plusieurs se sont lancé dans l'étude de concepts et techniques avancées sur « Active Directory » pour se préparer. Bien que ce soit totalement bénéfique pour l'aprentissage, il est à noter que le contenu de PEN-200 n'effleure qu'en surface les concepts d'AD. Il n'y aura pas de technique avancée nécessaire pour l'examen. Il faut revenir aux bases. C'est même parfois facile de tomber dans des choses trop avancées inutilement quand au fond il suffisait de trouver un mot de passe quelque part et non d'éplucher « Bloodhound » méticuleusement. 
+
+- Un « kerberoast » est l'attaque la plus avancée que j'ai vu dans les laboratoires et examens combinés.
+- L'essentiel est surtout d'être capable de faire la différences entre des comptes locaux et des comptes AD, de comprendre les différentes sortes de credentials et où ils sont stockés (SAM VS NTDS), de comprendre les principaux groupes privilégiés dans AD et leurs capacités (Domain admin surtout), de comprendre qu'un privilège dans AD peut vouloir dire des privilèges obtenus sur toutes les machines, de comprendre qu'on peut s'authentifier à certains services avec un hash, etc.
+- Encore une fois, la meilleure façon d'avoir un aperçu d'exploitation AD OSCP est de faire les 3 pratiques d'examen OSCP A-B-C.
+- Le « protocol spraying » et « credential spraying » reviennent à répétition.
+  
 ## Rapport 
 
 OffSec n'est pas très précis dans son guide d'examen sur ce qui compte ou ne compte pas dans le rapport. Il semble que les points sont attribués purement selon les machines réussies, et ensuite ça passe ou ça casse selon la recevabilité du rapport.
@@ -137,15 +146,6 @@ Ne pas oublier que pour prouver la réussite des machines, il faut:
 - Soumettre toutes les preuves « local.txt » et « proof.txt » dans le portail web;
 - Inclure toute la documentation nécessaire dans le rapport démontrant la compromission des machines, en suivant les exigences d'OffSec.
 
-## Active Directory
-
-Lorsqu'OffSec a annoncé qu'un ensemble « Active Directory » faisait maintenant partie de l'examen, plusieurs se sont lancé dans l'étude de concepts et techniques avancées sur « Active Directory » pour se préparer. Bien que ce soit totalement bénéfique pour l'aprentissage, il est à noter que le contenu de PEN-200 n'effleure qu'en surface les concepts d'AD. Il n'y aura pas de technique avancée nécessaire pour l'examen. Il faut revenir aux bases. C'est même parfois facile de tomber dans des choses trop avancées inutilement quand au fond il suffisait de trouver un mot de passe quelque part et non d'éplucher « Bloodhound » méticuleusement. 
-
-- Un « kerberoast » est l'attaque la plus avancée que j'ai vu dans les laboratoires et examens combinés.
-- L'essentiel est surtout d'être capable de faire la différences entre des comptes locaux et des comptes AD, de comprendre les différentes sortes de credentials et où ils sont stockés (SAM VS NTDS), de comprendre les principaux groupes privilégiés dans AD et leurs capacités (Domain admin surtout), de comprendre qu'un privilège dans AD peut vouloir dire des privilèges obtenus sur toutes les machines, de comprendre qu'on peut s'authentifier à certains services avec un hash, etc.
-- Encore une fois, la meilleure façon d'avoir un aperçu d'exploitation AD OSCP est de faire les 3 pratiques d'examen OSCP A-B-C.
-- Le « protocol spraying » et « credential spraying » reviennent à répétition.
-  
 # Post-examen (rapport)
 
 - Dès que le temps est écoulé pour l'examen, une nouvelle période de 24h commence qui représente le temps restant pour soumettre notre rapport. 
