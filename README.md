@@ -124,6 +124,9 @@ Format standard Markdown: `![Légende](Screenshots/Pasted%20image%20202307101351
 
 À noter la présence du chemin complet où trouver l'image, ainsi que les espaces qui ne sont pas supportés. On peut les encoder avec `%20` ou encore s'assurer que les paths ne contiennent pas d'espace. 
 
+Un add-on pour Obsidian peut aider à éviter le bordel dans les images insérées dans Obsidian: 
+https://github.com/reorx/obsidian-paste-image-rename
+
 # Examen
 
 ## Conditions d'examen
