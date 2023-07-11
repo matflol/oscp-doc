@@ -116,6 +116,14 @@ C'est une excellente solution et puisque mes notes sont exclusivement en « Mark
 - Si OffSec modifie ses exigences et critères pour le rapport, ça ne veut pas dire que le bon samaritain va modifier son projet automatiquement. Il vaut mieux vérifier aussi avant de l'utiliser. 
 - Il est recommandé de tester la solution de bout-en-bout au moins une fois. J'avais personnellement testé l'outil rapidement et la génération fonctionnait très bien, mais une fois en situation d'examen, j'ai transféré mes notes Obsidian de mon hôte vers ma VM, généré le rapport, et mes copies d'écran étaient brisées. Je n'avais pas assez testé le processus. Il semble que le problème n'était pas l'outil en soit mais ma façon d'insérer les copies d'écran dans Obsidian. Ça causait un problème avec « pandoc ». J'aurais du mieux tester le processus de bout-en-bout au préalable à tête reposée.
 
+- **Update:** concernant le problème avec Obsidian, il semble que cet éditeur n'utilise pas la syntaxe standard pour référer aux fichiers d'images, ce qui cause probablement le problème lorsqu'il passe dans `pandoc`. 
+
+Format Obsidian: `![[Pasted image 20230709231401.png]]`
+
+Format standard Markdown: `![Légende](Screenshots/Pasted%20image%2020230710135124.png)`
+
+À noter la présence du chemin complet où trouver l'image, ainsi que les espaces qui ne sont pas supportés. On peut les encoder avec `%20` ou encore s'assurer que les paths ne contiennent pas d'espace. 
+
 # Examen
 
 ## Conditions d'examen
