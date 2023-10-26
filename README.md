@@ -124,7 +124,7 @@ Format standard Markdown: `![Légende](Screenshots/Pasted%20image%20202307101351
 
 À noter la présence du chemin complet où trouver l'image, ainsi que les espaces qui ne sont pas supportés. On peut les encoder avec `%20` ou encore s'assurer que les paths ne contiennent pas d'espace. 
 
-**Update 2023-10-16*: J'ai appris que les paramètres d'Obsidian permettent de choisir si on veut créer des liens « Wiki » ou bien « Markdown ». On peut changer le paramètre pour que nos images se créent avec un lien « Markdown ». Cela devrait éliminer le problème avec « pandoc ». 
+**Update 2023-10-16**: J'ai appris que les paramètres d'Obsidian permettent de choisir si on veut créer des liens Wiki ou bien Markdown. On peut changer le paramètre pour que nos images se créent avec un lien Markdown. Cela devrait éliminer le problème avec pandoc. 
 ![image](https://github.com/matflol/oscp-doc/assets/90915844/7887fd70-4885-4e6a-9bfa-d8d36c6b5c9b)
 
 Un add-on pour Obsidian peut aider à éviter le bordel dans les images insérées dans Obsidian: 
